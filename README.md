@@ -97,7 +97,7 @@ recipe-manager/
    ```
 
 3. Access the application:
-   - Frontend: http://localhost
+   - Frontend: http://localhost:5173
    - Backend API: http://localhost:8080/api
    - API Documentation: http://localhost:8080/api/swagger-ui/index.html
 
