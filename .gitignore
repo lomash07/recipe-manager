@@ -1,0 +1,45 @@
+# Node.js / Frontend
+node_modules/
+/recipe-manager-frontend/node_modules/
+/recipe-manager-frontend/dist/
+/recipe-manager-frontend/.env.local
+/recipe-manager-frontend/.env.*.local
+/recipe-manager-frontend/npm-debug.log*
+/recipe-manager-frontend/yarn-debug.log*
+/recipe-manager-frontend/yarn-error.log*
+/recipe-manager-frontend/.vscode/
+/recipe-manager-frontend/.idea/
+
+# Java / Backend
+/recipe-manager-api/target/
+/recipe-manager-api/!.mvn/wrapper/maven-wrapper.jar
+/recipe-manager-api/!**/src/main/**/target/
+/recipe-manager-api/!**/src/test/**/target/
+/recipe-manager-api/.apt_generated
+/recipe-manager-api/.settings/
+/recipe-manager-api/.classpath
+/recipe-manager-api/.factorypath
+/recipe-manager-api/.project
+/recipe-manager-api/.springBeans
+/recipe-manager-api/.mvn/
+/recipe-manager-api/mvnw
+/recipe-manager-api/mvnw.cmd
+
+# Uploaded files
+/recipe-manager-api/uploads/
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS specific files
+.DS_Store
+Thumbs.db
